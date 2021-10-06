@@ -4,5 +4,7 @@ class Hello
 	{
 		System.out.println("hello,World");
 		
+		int tryyy;
+		
 	}
 }		
